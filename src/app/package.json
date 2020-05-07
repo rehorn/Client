@@ -48,6 +48,7 @@
     "react-native-root-toast": "^3.0.1",
     "react-native-sentry": "^0.42.0",
     "react-native-style-block": "0.0.4",
+    "react-native-webrtc": "^1.75.3",
     "react-native-webview": "^5.7.2",
     "react-navigation": "^3.9.1",
     "react-navigation-redux-helpers": "^3.0.2",
