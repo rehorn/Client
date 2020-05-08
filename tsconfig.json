@@ -12,6 +12,7 @@
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "noFallthroughCasesInSwitch": true,
+    "downlevelIteration": true,
     "noImplicitThis": true,
     "paths": {
       "@config/*": ["./config/*"],
