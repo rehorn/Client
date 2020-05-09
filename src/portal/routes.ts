@@ -118,4 +118,9 @@ export const routes: RouteConfig[] = [
     path: '/trpg/report/preview/:reportUUID',
     component: TLoadable(() => import('@portal/routes/trpg/report/preview')),
   },
+  {
+    title: 'RTC测试',
+    path: '/rtc/test',
+    component: TLoadable(() => import('@portal/routes/rtc/test')),
+  },
 ];
