@@ -6,6 +6,62 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "11982162",
+      "name": "switch_camera",
+      "font_class": "switch_camera",
+      "unicode": "e9ac",
+      "unicode_decimal": 59820
+    },
+    {
+      "icon_id": "142115",
+      "name": "videocam-off",
+      "font_class": "videocamoff",
+      "unicode": "e8ff",
+      "unicode_decimal": 59647
+    },
+    {
+      "icon_id": "2207844",
+      "name": "icon-mic",
+      "font_class": "mic",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "2207845",
+      "name": "icon-mic_off",
+      "font_class": "mic_off",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "6987003",
+      "name": "videocam",
+      "font_class": "videocam",
+      "unicode": "e913",
+      "unicode_decimal": 59667
+    },
+    {
+      "icon_id": "10139938",
+      "name": "desktop-monitor-upload",
+      "font_class": "desktop-monitor-upload",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "11672890",
+      "name": "speaker_on",
+      "font_class": "speaker_on",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "11686843",
+      "name": "speaker_off",
+      "font_class": "speaker_off",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
       "icon_id": "14223250",
       "name": "DICE-d4",
       "font_class": "DICE-d4",
