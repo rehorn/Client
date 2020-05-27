@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "13745135",
+      "name": "Pause",
+      "font_class": "Pause",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
       "icon_id": "11982162",
       "name": "switch_camera",
       "font_class": "switch_camera",
